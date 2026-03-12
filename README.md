@@ -5,7 +5,7 @@ I am an MSc student in Urban Analytics at the University of Glasgow.
 ## 🌱 About Me
 - Studying Urban Analytics
 - Hold an undergraduate degree in Politics
-- Interested in urban socio-ecological sustainability and justice
+- Interested in socio-ecological sustainability and justice
 - Looking to apply data and spatial analysis to real-world urban challenges
 
 ## 🛠️ Tools & Skills
