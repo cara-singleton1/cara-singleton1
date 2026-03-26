@@ -9,7 +9,7 @@ I am an MSc student in Urban Analytics at the University of Glasgow.
 - Looking to apply data and spatial analysis to real-world urban challenges
 
 ## 🛠️ Tools & Skills
-- 🐍 Python
+- 🐍 Python and R
 - 🗺️ GIS & Spatial Analysis
 - 📊 Data Visualisation
 - 📝 Qualitative Methods
